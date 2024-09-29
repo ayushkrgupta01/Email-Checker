@@ -1,1 +1,1 @@
-Email Checker is a lightweight Python program designed to validate and verify email addresses efficiently. It checks for correct syntax, domain existence, and can also identify temporary or disposable email providers.
+Email Checker is a lightweight program designed to validate and verify email addresses efficiently. It checks for correct syntax, domain existence, and can also identify temporary or disposable email providers.
